@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_s2.mk
+    $(LOCAL_DIR)/cesium_s2.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_s2-user \
-    aosp_s2-userdebug \
-    aosp_s2-eng
+    cesium_s2-user \
+    cesium_s2-userdebug \
+    cesium_s2-eng
